@@ -1,0 +1,16 @@
+D:\Self\repos\DSAPractice\DSAPractice\DSAPractice\bin\Debug\net5.0\DSAPractice.exe
+D:\Self\repos\DSAPractice\DSAPractice\DSAPractice\bin\Debug\net5.0\DSAPractice.deps.json
+D:\Self\repos\DSAPractice\DSAPractice\DSAPractice\bin\Debug\net5.0\DSAPractice.runtimeconfig.json
+D:\Self\repos\DSAPractice\DSAPractice\DSAPractice\bin\Debug\net5.0\DSAPractice.runtimeconfig.dev.json
+D:\Self\repos\DSAPractice\DSAPractice\DSAPractice\bin\Debug\net5.0\DSAPractice.dll
+D:\Self\repos\DSAPractice\DSAPractice\DSAPractice\bin\Debug\net5.0\ref\DSAPractice.dll
+D:\Self\repos\DSAPractice\DSAPractice\DSAPractice\bin\Debug\net5.0\DSAPractice.pdb
+D:\Self\repos\DSAPractice\DSAPractice\DSAPractice\obj\Debug\net5.0\DSAPractice.csproj.AssemblyReference.cache
+D:\Self\repos\DSAPractice\DSAPractice\DSAPractice\obj\Debug\net5.0\DSAPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self\repos\DSAPractice\DSAPractice\DSAPractice\obj\Debug\net5.0\DSAPractice.AssemblyInfoInputs.cache
+D:\Self\repos\DSAPractice\DSAPractice\DSAPractice\obj\Debug\net5.0\DSAPractice.AssemblyInfo.cs
+D:\Self\repos\DSAPractice\DSAPractice\DSAPractice\obj\Debug\net5.0\DSAPractice.csproj.CoreCompileInputs.cache
+D:\Self\repos\DSAPractice\DSAPractice\DSAPractice\obj\Debug\net5.0\DSAPractice.dll
+D:\Self\repos\DSAPractice\DSAPractice\DSAPractice\obj\Debug\net5.0\ref\DSAPractice.dll
+D:\Self\repos\DSAPractice\DSAPractice\DSAPractice\obj\Debug\net5.0\DSAPractice.pdb
+D:\Self\repos\DSAPractice\DSAPractice\DSAPractice\obj\Debug\net5.0\DSAPractice.genruntimeconfig.cache
