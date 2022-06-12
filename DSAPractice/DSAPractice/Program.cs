@@ -20,12 +20,15 @@ namespace DSAPractice
             //Console.WriteLine(ParameterizedRecursion.FindFactorialOfGivenNo(5));
 
             //Reverse the array using recursion.
-            var arr = ReverseArray.ReverseArrayRecursion(new int[] { 10, 2, 34, 4, 5 }, 5);
-            foreach (var item in arr)
-            {
-                Console.WriteLine(item);
+            //var arr = ReverseArray.ReverseArrayRecursion(new int[] { 10, 2, 34, 4, 5 }, 5);
+            //foreach (var item in arr)
+            //{
+            //    Console.WriteLine(item);
 
-            }
+            //}
+
+            //check array is palindrome
+            Console.WriteLine(ReverseArray.CheckPalindrome("NAMANA", 6));
 
 
             Console.ReadKey();

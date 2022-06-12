@@ -9,6 +9,7 @@ namespace DSAPractice.RecursionProblems
     public static class ReverseArray
     {
         static int[] arr;
+        static string s;
         static int length;
 
         public static int[] ReverseArrayRecursion(int[] Arr, int Length)
@@ -33,5 +34,27 @@ namespace DSAPractice.RecursionProblems
             arr[v1] = arr[v2];
             arr[v2] = temp;
         }
+
+        public static bool CheckPalindrome(string Arr, int Length)
+        {
+            s = Arr;
+            length = Length;
+            return IsPalindrome(0);
+        }
+
+        private static bool IsPalindrome(int n)
+        {
+            if (n > length / 2)
+            {
+                return true;
+            }
+            else if(s[n] != s[length-n-1])
+            {
+                return false;
+            }
+
+            return IsPalindrome(n + 1);
+        }
+
     }
 }
