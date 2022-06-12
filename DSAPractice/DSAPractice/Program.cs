@@ -17,7 +17,16 @@ namespace DSAPractice
             ////////Parameterized function recursion.
             //Console.WriteLine(ParameterizedRecursion.FindSumOfnNumbers(5));
 
-            Console.WriteLine(ParameterizedRecursion.FindFactorialOfGivenNo(5));
+            //Console.WriteLine(ParameterizedRecursion.FindFactorialOfGivenNo(5));
+
+            //Reverse the array using recursion.
+            var arr = ReverseArray.ReverseArrayRecursion(new int[] { 10, 2, 34, 4, 5 }, 5);
+            foreach (var item in arr)
+            {
+                Console.WriteLine(item);
+
+            }
+
 
             Console.ReadKey();
         }
