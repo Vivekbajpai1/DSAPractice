@@ -56,5 +56,12 @@ namespace DSAPractice.RecursionProblems
             return IsPalindrome(n + 1);
         }
 
+        public static int FindNthFabonacciNo(int n)
+        {
+            if (n <= 1)
+                return n;
+            return FindNthFabonacciNo(n - 1) + FindNthFabonacciNo(n - 2);
+        }
+
     }
 }

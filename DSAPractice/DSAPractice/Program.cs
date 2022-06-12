@@ -28,8 +28,21 @@ namespace DSAPractice
             //}
 
             //check array is palindrome
-            Console.WriteLine(ReverseArray.CheckPalindrome("NAMANA", 6));
+            //Console.WriteLine(ReverseArray.CheckPalindrome("NAMANA", 6));
 
+
+            //Problem: Get the Nth fabonacci no via recursion
+            //Console.WriteLine(ReverseArray.FindNthFabonacciNo(5));
+
+            //Problems: On Sequences
+            //Problem-1: Find all the sequences of an array
+            //SequenceProblems.FindAllTheSequenceInArray(new int[] { 3, 2, 1 }, 3);
+
+            //Problem-2: Find all the sequences whose sum is k
+            //SequenceProblems.FindAllSequenceWhereSumIsK(new int[] { 3, 2, 1 }, 3, 3);
+
+            //Problem-3: Find  the first sequences whose sum is k
+            SequenceProblems.FindFirstSquenceWhereSumIsK(new int[] { 3, 2, 1 }, 3, 3);
 
             Console.ReadKey();
         }
